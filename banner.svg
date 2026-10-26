@@ -107,11 +107,11 @@
     <g transform="translate(990 236)"><g class="fl d3"><use href="#heart" width="18" height="18" fill="#ff2d78" opacity=".6"/></g></g>
 
     <!-- title -->
-    <g class="g1"><text class="t" x="596" y="170" fill="#39ff88" opacity=".85">mochiiwuff</text></g>
-    <g class="g2"><text class="t" x="604" y="170" fill="#ff2d78">mochiiwuff</text></g>
-    <text class="t" x="600" y="170" fill="#ffffff">mochiiwuff</text>
-    <g clip-path="url(#sl1)"><g class="s1"><text class="t" x="600" y="170" fill="#ff2d78">mochiiwuff</text></g></g>
-    <g clip-path="url(#sl2)"><g class="s2"><text class="t" x="600" y="170" fill="#39ff88">mochiiwuff</text></g></g>
+    <g class="g1"><text class="t" x="596" y="170" fill="#39ff88" opacity=".85">Wisko711</text></g>
+    <g class="g2"><text class="t" x="604" y="170" fill="#ff2d78">Wisko711</text></g>
+    <text class="t" x="600" y="170" fill="#ffffff">Wisko711</text>
+    <g clip-path="url(#sl1)"><g class="s1"><text class="t" x="600" y="170" fill="#ff2d78">Wisko711</text></g></g>
+    <g clip-path="url(#sl2)"><g class="s2"><text class="t" x="600" y="170" fill="#39ff88">Wisko711</text></g></g>
 
     <!-- subtitle -->
     <rect x="390" y="208" width="420" height="2" fill="#ff2d78" opacity=".5"/>
