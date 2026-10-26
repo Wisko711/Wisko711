@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wisko711/Wisko711/main/banner.svg" />
+</p>
+
 <h1 align="center">🐾 Salut, moi c'est Wisko711</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=FF2D78&center=true&vCenter=true&width=600&lines=%3E+dev+passionné;%3E+j'aime+créer+des+apps;%3E+Python+•+JS+•+React" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wisko711/Wisko711/main/divider.svg" />
 </p>
 
 ### 🐾 whoami
@@ -10,9 +18,17 @@
 - 🔨 Je construis : CAPRI-1, CAPRI-2
 - 🧠 Ma devise : si l'app n'existe pas, je la crée
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wisko711/Wisko711/main/divider.svg" />
+</p>
+
 ### 🛠️ stack
 
 <img src="https://skillicons.dev/icons?i=py,js,react,html,css&theme=dark&perline=8" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wisko711/Wisko711/main/divider.svg" />
+</p>
 
 ### 📊 stats
 
